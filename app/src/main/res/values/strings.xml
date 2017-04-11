@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="app_name">Presto Pizza</string>
+    <!--[CHAR LIMIT=19]-->
+    <string name="OrderPrice">Order Min: $12.00 \nFee: $3.99 - $4.99</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="opening">Opened from 11:30 to 01:00\n7 days a week</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="description">If you are tired and don’t want to go out from your home or want to celebrate a small party at your home or somewhere then, you can book your order on this App or make a call to us on our phone. Presto Pizza provides you the best service with fast delivery.</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="review">1350 Reviews</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="address">175 Whatever St, \nNew York, NY 10013, \nUnited States</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="ContactInformation">Contact Information:</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="website">Website: presto-pizza.com</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="email">Email: presto-pizza@gmail.com</string>
+    <!--[CHAR LIMIT=NONE]-->
+    <string name="phone">Phone: +1 212-913-5261</string>
+    <!--[CHAR LIMIT=12]-->
+    <string name="button">menu</string>
+    <string name="order">Out of Order</string>
+</resources>

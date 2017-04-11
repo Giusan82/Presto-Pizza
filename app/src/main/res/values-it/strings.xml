@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Presto Pizza</string>
+    <string name="ContactInformation">Contatto:</string>
+    <string name="button">Menù</string>
+    <string name="email">Email: presto-pizza@gmail.com</string>
+    <string name="opening">Aperto dalle 11:30 alle 01:00\n7 giorni alla settimana.</string>
+    <string name="phone">Telefono: +1 212-913-5261</string>
+    <string name="review">1350 Reviews</string>
+    <string name="website">Sito Web: presto-pizza.com</string>
+    <string name="address">175 Whatever St,\nNew York, NY 10013,\nStati Uniti</string>
+    <string name="OrderPrice">Ordine Min: $12.00\nCom.: $3.99 - $4.99</string>
+    <string name="description">Se sei stanco e non vuoi uscire di casa o vuoi celebrare un piccola festa in casa o dove vuoi, puoi allora ordinare con questa App oppure chiamare al nostro numero. Presto Pizza fornisce il miglior servizio ed una rapida consegna.</string>
+    <string name="order">Fuori Servizio</string>
+</resources>
